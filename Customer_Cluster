@@ -1,0 +1,8 @@
+Customer_Cluster/README.md
+# Customer_Cluster
+
+이 폴더는 고객 클러스터링 관련 Jupyter Notebook 및 분석 자료를 저장하는 디렉토리입니다.
+
+- KMeans 기반 고객 세그먼트 분류
+- RFM 기반 클러스터 해석
+- PCA 시각화 포함
